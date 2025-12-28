@@ -39,8 +39,3 @@ This curriculum exists to affect positive change, not to hoard knowledge. Study 
 ## Getting Started
 
 See **Module M: Bootcamp Protocol** for the Day One initialization sequence.
-
-## License
-
-[Your license here]
-
